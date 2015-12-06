@@ -1,0 +1,29 @@
+{
+  "name": "yarr-port-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app/index.ts",
+  "scripts": {
+    "initialize": "tsd install && npm install",
+    "prestart": "open-url http://localhost:8080/index.html",
+    "start": "webpack-dev-server --config webpack/webpack.development.config.js --progress --colors --hot",
+    "production": "webpack --config webpack/webpack.production.config.js --progress --colors"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "clean-webpack-plugin": "0.1.4",
+    "html-webpack-plugin": "1.7.0",
+    "open-url": "2.0.2",
+    "ts-loader": "0.7.2",
+    "tslint": "3.1.1",
+    "tslint-loader": "2.1.0",
+    "typescript": "1.7.3",
+    "webpack": "1.12.9",
+    "webpack-dev-server": "1.14.0"
+  },
+  "dependencies": {
+    "rx": "4.0.7",
+    "virtual-dom": "2.1.1"
+  }
+}
