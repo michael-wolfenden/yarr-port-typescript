@@ -6,6 +6,61 @@
   "bundle": "typings/tsd.d.ts",
   "installed": {
     "virtual-dom/virtual-dom.d.ts": {
-      "commit": "e5a27ea95e47b95333784f1f0d590127b4e39a89"
+      "commit": "220716d99a77df1654fb4f6cd760dc134ffa8e89"
+    },
+    "rx/rx.d.ts": {
+      "commit": "220716d99a77df1654fb4f6cd760dc134ffa8e89"
+    },
+    "rx/rx.time.d.ts": {
+      "commit": "220716d99a77df1654fb4f6cd760dc134ffa8e89"
+    },
+    "rx/rx.all.d.ts": {
+      "commit": "220716d99a77df1654fb4f6cd760dc134ffa8e89"
+    },
+    "rx/rx.binding.d.ts": {
+      "commit": "220716d99a77df1654fb4f6cd760dc134ffa8e89"
+    },
+    "rx/rx.time-lite.d.ts": {
+      "commit": "220716d99a77df1654fb4f6cd760dc134ffa8e89"
+    },
+    "rx/rx-lite.d.ts": {
+      "commit": "220716d99a77df1654fb4f6cd760dc134ffa8e89"
+    },
+    "rx/rx.experimental.d.ts": {
+      "commit": "220716d99a77df1654fb4f6cd760dc134ffa8e89"
+    },
+    "rx/rx.coincidence.d.ts": {
+      "commit": "220716d99a77df1654fb4f6cd760dc134ffa8e89"
+    },
+    "rx/rx.joinpatterns.d.ts": {
+      "commit": "220716d99a77df1654fb4f6cd760dc134ffa8e89"
+    },
+    "rx/rx.backpressure.d.ts": {
+      "commit": "220716d99a77df1654fb4f6cd760dc134ffa8e89"
+    },
+    "rx/rx.async.d.ts": {
+      "commit": "220716d99a77df1654fb4f6cd760dc134ffa8e89"
+    },
+    "rx/rx.binding-lite.d.ts": {
+      "commit": "220716d99a77df1654fb4f6cd760dc134ffa8e89"
+    },
+    "rx/rx.virtualtime.d.ts": {
+      "commit": "220716d99a77df1654fb4f6cd760dc134ffa8e89"
+    },
+    "rx/rx.async-lite.d.ts": {
+      "commit": "220716d99a77df1654fb4f6cd760dc134ffa8e89"
+    },
+    "rx/rx.backpressure-lite.d.ts": {
+      "commit": "220716d99a77df1654fb4f6cd760dc134ffa8e89"
+    },
+    "rx/rx.testing.d.ts": {
+      "commit": "220716d99a77df1654fb4f6cd760dc134ffa8e89"
+    },
+    "rx/rx.coincidence-lite.d.ts": {
+      "commit": "220716d99a77df1654fb4f6cd760dc134ffa8e89"
+    },
+    "rx/rx.aggregates.d.ts": {
+      "commit": "220716d99a77df1654fb4f6cd760dc134ffa8e89"
     }
+  }
 }

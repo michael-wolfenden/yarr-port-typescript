@@ -1,4 +1,4 @@
-/// <reference path='../../typings/all.d.ts'/>
+/// <reference path='../../typings/tsd.d.ts'/>
 
 import {h, create, diff, patch} from 'virtual-dom';
 import {Observable} from 'rx';
